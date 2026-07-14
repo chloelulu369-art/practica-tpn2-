@@ -1,0 +1,11 @@
+.cajita {
+    position: relative;
+    width: 100%;
+    align-items:normal;
+    flex-basis: auto;
+}
+.cajita img {
+    height: 100%;
+    width: auto;
+    max-height: 300px;
+}

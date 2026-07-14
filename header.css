@@ -3,6 +3,7 @@ header {
     color:#EE4C81 ;
     padding:0 70px;
     box-sizing: border-box;
+    display:block;
 }
 .logo{
     display: flex;
