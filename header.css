@@ -1,0 +1,23 @@
+header {
+    background-color:#3C4B8C ;
+    color:#EE4C81 ;
+    padding:0 70px;
+    box-sizing: border-box;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lista {
+    height: 40px;
+    line-height: 125%;
+    display: flex;
+    align-items: center;
+    flex-basis: auto;
+}
+.lista li a{
+    color: white;
+  text-decoration: none;
+  padding: 5px 10px;
+}

@@ -1,0 +1,22 @@
+carousel {
+position: relative;
+width: 100%;
+overflow: hidden;
+}
+
+carousel-inner {
+display: flex;
+}
+
+carousel-item {
+min-width: 100%;
+transition: transform 0.5s ease;
+}
+
+prev, .next {
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+}
+prev { left: 10px; }
+next { right: 10px; }
